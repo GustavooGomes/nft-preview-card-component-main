@@ -1,0 +1,84 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.cabecalho {
+    border-radius: 10px;
+    width: 350px;
+    height: 600px;
+    margin-left: 830px;
+    margin-right: 800px;
+    margin-top: 200px;
+    background-color: hsl(216, 50%, 16%);
+    font-family: 'Outfit';
+    
+}
+#imagem-cubo {
+    border-radius: 10px;
+    margin-left: 25px;
+    margin-top: 20px;
+    
+}
+
+h1 {
+    margin-left: 25px;
+    font-size: 25px;
+}
+
+.cabecalho p {
+    font-size: 18px;
+}
+
+.hr {
+    margin-left: 10px;
+    margin-right: 10px;
+    translate: 0px -70px;
+    
+}
+
+.equilibrium {
+    margin-left: 25px;
+}
+
+#eth {
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    translate: 0px -15px;
+}
+
+#clock {
+    display: flex;
+    align-items: center;
+    margin-left: 220px;
+    translate: 0px -75px;
+}
+
+.creation {
+    display: flex;
+    align-items: center;
+    translate: 0px -60px;
+    margin-left: 80px;
+    color: hsl(215, 51%, 70%);
+}
+
+#avatar {
+    display: flex;
+    align-items: center;
+    translate: 0px -150px;
+    margin-left: 20px;
+}
+
+.jules {
+    display: flex;
+    align-items: center;
+    translate: 0px -100px;
+    margin-left: 175px;
+    color: white;
+}
+
+.attribution {
+    margin-right: 120px;
+    color: white;
+    margin-top: 10px;
+}
