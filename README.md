@@ -5,9 +5,6 @@
 
 Obrigado por conferir este desafio de codificação de front-end.
 
-[Gustavo Gomes](www.github.com/gustavoogomes) desafios ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
-
-
 ## The challenge
 
 O desafio foi construir este componente de cartão de visualização e fazê-lo parecer o mais próximo possível do design.
